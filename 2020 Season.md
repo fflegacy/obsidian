@@ -2,7 +2,8 @@
 
 ## Minimum Viable Season
 The League requires a minimum of 9 weeks for a complete season to guarantee everyone plays everyone else at least once.
-	- This means 9 complete _fantasy_ games e.g. if the league ended Monday morning on Week 9 but no one started any players that night, we'd consider that a complete season.
+
+- This means 9 complete _fantasy_ games e.g. if the league ended Monday morning on Week 9 but no one started any players that night, we'd consider that a complete season.
 
 Should the NFL cancel the season before 9 weeks of fantasy football are completed, competition will immediately cease and all dues will be refunded according to the Prize Payouts rules below.
 
