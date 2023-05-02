@@ -1,4 +1,4 @@
-# 2020 Season
+> [!info] This page contains an official commissioner decision, including justifications and consequences. All decisions are written from the perspective of Commissioner Dan.
 
 ## Minimum Viable Season
 The League requires a minimum of 9 weeks for a complete season to guarantee everyone plays everyone else at least once.

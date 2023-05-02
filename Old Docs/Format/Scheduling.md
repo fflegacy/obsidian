@@ -1,0 +1,1 @@
+The schedule will be generated and locked into place after everyone signs up for Yahoo. We use [Free Schedule Maker](http://schedules.footballguys.com/index.php?teams=10) and some RNG to determine the order names are placed into the Free Schedule Maker.
